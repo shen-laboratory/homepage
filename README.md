@@ -6,7 +6,7 @@
 
 1. github のアカウントを [このページ](https://github.co.jp/)の右上のサインアップで作製し、今のホームページの担当者に招待してもらってください。
 
-    * 招待する担当者は [ココ](https://github.com/gae-22/shen-lab) の画面上の「Setting」-> 「Collaborators」->「Add people」-> アカウント名を入力 で招待してください。
+    * 招待する担当者は [ココ](https://github.com/shen-laboratory) の画面上の「People」->「Invite member」から招待してください．
 
 1. Visual Studio Code のインストール
 
@@ -33,7 +33,7 @@ git clone https://github.com/gae-22/shen-lab.git
     1. 以下のコマンドを実行して Visual Studio Code でこのコードを開く。
 
     ```bash
-    code shen-lab
+    code homepage
     ```
     2. 以下のコマンドを実行して Webサイトをプレビューできるようにする
 
